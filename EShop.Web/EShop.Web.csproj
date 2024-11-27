@@ -16,4 +16,8 @@
     <ProjectReference Include="..\EShop.Models\EShop.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include=".github\" />
+  </ItemGroup>
+
 </Project>
